@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER madlyseason@icloud.com
+MAINTAINER aaraujo@protonmail.ch
 
 ENV syslog_server ""
 
